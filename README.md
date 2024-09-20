@@ -6,6 +6,8 @@ Isaac Alain Benavides Hernandez
 
 216817953
 
+Enlace a la página: https://isaac-bh.github.io/blog/
+
 Esta página es un blog personal, se utilizo una plantilla de freeHTML5, se modifico el estilo y el contenido que tenia la plantilla.
 
 
